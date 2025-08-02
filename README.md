@@ -14,7 +14,7 @@ We initially assign roles as following;
 | Member       | Roles               |
 |--------------|------------------------------|
 | Omar Obdulwahhab | Report introduction and methodology |
-| Sai Palaka       | Pseudo codes and data analytic details |
+| Sai Palaka       | Code brainstorm, Code Execution and data analytics details |
 | Mint Menakanit   | Report details and additional files; README.md, slides |
 | Mohammed Alsayegh | Report results and discussion |
 | Prisha Kumar     | Report conclusion and presentation |
