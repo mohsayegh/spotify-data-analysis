@@ -17,4 +17,4 @@ We initially assign roles as following;
 | Sai Palaka       | Data details; analyze correlations and genre |
 | Mint Menakanit   | Report details and additional files; README.md, slides |
 | Mohammed Alsayegh | Report results and discussion |
-| Prisha Kumar     | Report conclusion and presentation |
+| Prisha Kumar     | Report conclusion, linear regression,presentation |
