@@ -17,6 +17,6 @@ We initially assign roles as following;
 | Sai Palaka       | Code brainstorm, Code Execution and data analytics details |
 | Mint Menakanit   | Report details and additional files; README.md, slides |
 | Mohammed Alsayegh | Report results and discussion |
-| Prisha Kumar     | Report conclusion and presentation |
+| Prisha Kumar     | Report conclusion, Linear Regression, presentation |
 
 ----
